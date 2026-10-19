@@ -1,0 +1,55 @@
+
+# Unity generated files and directories
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+[Mm]emoryCaptures/
+[Rr]ecordings/
+
+# Visual Studio and IDE files
+.vs/
+.idea/
+.vscode/
+*.csproj
+*.sln
+*.slnx
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+
+# Temporary and debug files
+*.tmp
+*.log
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# Compiled game builds
+*.exe
+*.apk
+*.aab
+
+# Unity exported packages
+*.unitypackage
+
+# Signing keys and sensitive files
+*.keystore
+*.jks
+*.p12
+*.pfx
+*.pem
+*.key
+.env
+.env.*
+
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
